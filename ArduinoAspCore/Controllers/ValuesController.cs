@@ -48,7 +48,7 @@ namespace ArduinoAspCore.Controllers
         {
         }
         [HttpPost]
-        public IActionResult Test([FromBody]Data data)
+        public IActionResult Post([FromBody]Data data)
         {
             if (data == null)
             {
