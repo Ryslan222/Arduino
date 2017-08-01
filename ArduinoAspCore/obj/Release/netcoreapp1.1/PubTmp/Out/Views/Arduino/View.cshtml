@@ -1,0 +1,44 @@
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+
+    <meta name="viewport" content="width=device-width" />
+    <title>View</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+</head>
+<body>
+    <input type="button" onclick="Test()" />
+
+    <script type="text/javascript">
+
+         function Test() {
+            data = { Name: "RR", Count: 4 };
+            
+            var jsonOfLog = JSON.stringify(data);
+
+            $.ajax({
+                type: 'POST',
+                url: "api/Arduino/Test",
+                data: "jsonOfLog=" + jsonOfLog,
+                success: function (returnPayload) {
+                    console && console.log("request succeeded");
+                },
+                error: function (xhr, ajaxOptions, thrownError) {
+                    console && console.log("request failed");
+                },
+
+                processData: false,
+                async: true
+            });
+        }
+
+    </script>
+    
+</body>
+</html>

@@ -7,3 +7,11 @@ C:\Users\rys_p\onedrive\документы\visual studio 2017\Projects\ArduinoAs
 C:\Users\rys_p\onedrive\документы\visual studio 2017\Projects\ArduinoAspCore\ArduinoAspCore\obj\Debug\netcoreapp1.1\ArduinoAspCore.AssemblyInfo.cs
 C:\Users\rys_p\onedrive\документы\visual studio 2017\Projects\ArduinoAspCore\ArduinoAspCore\obj\Debug\netcoreapp1.1\ArduinoAspCore.dll
 C:\Users\rys_p\onedrive\документы\visual studio 2017\Projects\ArduinoAspCore\ArduinoAspCore\obj\Debug\netcoreapp1.1\ArduinoAspCore.pdb
+D:\node\Arduino\ArduinoAspCore\bin\Debug\netcoreapp1.1\ArduinoAspCore.deps.json
+D:\node\Arduino\ArduinoAspCore\bin\Debug\netcoreapp1.1\ArduinoAspCore.runtimeconfig.json
+D:\node\Arduino\ArduinoAspCore\bin\Debug\netcoreapp1.1\ArduinoAspCore.runtimeconfig.dev.json
+D:\node\Arduino\ArduinoAspCore\bin\Debug\netcoreapp1.1\ArduinoAspCore.dll
+D:\node\Arduino\ArduinoAspCore\bin\Debug\netcoreapp1.1\ArduinoAspCore.pdb
+D:\node\Arduino\ArduinoAspCore\obj\Debug\netcoreapp1.1\ArduinoAspCore.AssemblyInfo.cs
+D:\node\Arduino\ArduinoAspCore\obj\Debug\netcoreapp1.1\ArduinoAspCore.dll
+D:\node\Arduino\ArduinoAspCore\obj\Debug\netcoreapp1.1\ArduinoAspCore.pdb
