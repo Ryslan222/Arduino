@@ -1,0 +1,9 @@
+C:\Users\rys_p\onedrive\документы\visual studio 2017\Projects\ArduinoAspCore\ArduinoAspCore\bin\Debug\netcoreapp1.1\ArduinoAspCore.deps.json
+C:\Users\rys_p\onedrive\документы\visual studio 2017\Projects\ArduinoAspCore\ArduinoAspCore\bin\Debug\netcoreapp1.1\ArduinoAspCore.runtimeconfig.json
+C:\Users\rys_p\onedrive\документы\visual studio 2017\Projects\ArduinoAspCore\ArduinoAspCore\bin\Debug\netcoreapp1.1\ArduinoAspCore.runtimeconfig.dev.json
+C:\Users\rys_p\onedrive\документы\visual studio 2017\Projects\ArduinoAspCore\ArduinoAspCore\bin\Debug\netcoreapp1.1\ArduinoAspCore.dll
+C:\Users\rys_p\onedrive\документы\visual studio 2017\Projects\ArduinoAspCore\ArduinoAspCore\bin\Debug\netcoreapp1.1\ArduinoAspCore.pdb
+C:\Users\rys_p\onedrive\документы\visual studio 2017\Projects\ArduinoAspCore\ArduinoAspCore\obj\Debug\netcoreapp1.1\ArduinoAspCore.csprojResolveAssemblyReference.cache
+C:\Users\rys_p\onedrive\документы\visual studio 2017\Projects\ArduinoAspCore\ArduinoAspCore\obj\Debug\netcoreapp1.1\ArduinoAspCore.AssemblyInfo.cs
+C:\Users\rys_p\onedrive\документы\visual studio 2017\Projects\ArduinoAspCore\ArduinoAspCore\obj\Debug\netcoreapp1.1\ArduinoAspCore.dll
+C:\Users\rys_p\onedrive\документы\visual studio 2017\Projects\ArduinoAspCore\ArduinoAspCore\obj\Debug\netcoreapp1.1\ArduinoAspCore.pdb
