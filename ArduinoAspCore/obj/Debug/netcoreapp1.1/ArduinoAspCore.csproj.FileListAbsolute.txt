@@ -15,4 +15,3 @@ D:\node\Arduino\ArduinoAspCore\bin\Debug\netcoreapp1.1\ArduinoAspCore.pdb
 D:\node\Arduino\ArduinoAspCore\obj\Debug\netcoreapp1.1\ArduinoAspCore.AssemblyInfo.cs
 D:\node\Arduino\ArduinoAspCore\obj\Debug\netcoreapp1.1\ArduinoAspCore.dll
 D:\node\Arduino\ArduinoAspCore\obj\Debug\netcoreapp1.1\ArduinoAspCore.pdb
-D:\node\Arduino\ArduinoAspCore\obj\Debug\netcoreapp1.1\ArduinoAspCore.csprojResolveAssemblyReference.cache
