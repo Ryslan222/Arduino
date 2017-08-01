@@ -10747,6 +10747,7 @@
     ".NETCoreApp,Version=v1.1": [
       "Microsoft.ApplicationInsights.AspNetCore >= 2.0.0",
       "Microsoft.AspNetCore >= 1.1.2",
+      "Microsoft.AspNetCore.Cors >= 1.1.2",
       "Microsoft.AspNetCore.Mvc >= 1.1.3",
       "Microsoft.AspNetCore.StaticFiles >= 1.1.2",
       "Microsoft.EntityFrameworkCore.Design >= 1.1.2",
@@ -10765,10 +10766,10 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\rys_p\\onedrive\\документы\\visual studio 2017\\Projects\\ArduinoAspCore\\ArduinoAspCore\\ArduinoAspCore.csproj",
+      "projectUniqueName": "C:\\Users\\rys_p\\OneDrive\\Документы\\Visual Studio 2017\\Projects\\ArduinoAspCore\\ArduinoAspCore\\ArduinoAspCore.csproj",
       "projectName": "ArduinoAspCore",
-      "projectPath": "C:\\Users\\rys_p\\onedrive\\документы\\visual studio 2017\\Projects\\ArduinoAspCore\\ArduinoAspCore\\ArduinoAspCore.csproj",
-      "outputPath": "C:\\Users\\rys_p\\onedrive\\документы\\visual studio 2017\\Projects\\ArduinoAspCore\\ArduinoAspCore\\obj\\",
+      "projectPath": "C:\\Users\\rys_p\\OneDrive\\Документы\\Visual Studio 2017\\Projects\\ArduinoAspCore\\ArduinoAspCore\\ArduinoAspCore.csproj",
+      "outputPath": "C:\\Users\\rys_p\\OneDrive\\Документы\\Visual Studio 2017\\Projects\\ArduinoAspCore\\ArduinoAspCore\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"
@@ -10799,6 +10800,10 @@
             "version": "1.1.1"
           },
           "Microsoft.EntityFrameworkCore.Design": {
+            "target": "Package",
+            "version": "1.1.2"
+          },
+          "Microsoft.AspNetCore.Cors": {
             "target": "Package",
             "version": "1.1.2"
           },
