@@ -39,7 +39,7 @@ namespace ArduinoAspCore
             services.AddCors();
         }
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.    
-          
+
         public void Configure(IApplicationBuilder app, IHostingEnvironment env, ILoggerFactory loggerFactory)
         {
             loggerFactory.AddConsole(Configuration.GetSection("Logging"));
@@ -58,7 +58,9 @@ namespace ArduinoAspCore
             app.UseStaticFiles();
             app.UseCors(builder =>
     builder.WithOrigins()
+            .AllowAnyMethod()
            .AllowAnyHeader()
+           .AllowCredentials()
            );
 
             app.UseMvc(routes =>
